@@ -1,0 +1,32 @@
+c:\users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.exe.config
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.exe
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.pdb
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.csprojResolveAssemblyReference.cache
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.Form1.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormMain.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.Properties.Resources.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.csproj.GenerateResource.Cache
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.exe
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.pdb
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormMemo.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormWecker.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormCalen.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormLinker.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\bin\Debug\ClassLibrary1.dll
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\lifehandbook2\bin\Debug\ClassLibrary1.pdb
+G:\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.exe.config
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.exe
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.pdb
+G:\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.exe
+G:\lifehandbook2\lifehandbook2\bin\Debug\lifehandbook2.pdb
+G:\lifehandbook2\lifehandbook2\bin\Debug\ClassLibrary1.dll
+G:\lifehandbook2\lifehandbook2\bin\Debug\ClassLibrary1.pdb
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.csprojResolveAssemblyReference.cache
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.Form1.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormCalen.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormLinker.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormMain.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormMemo.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.FormWecker.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.Properties.Resources.resources
+G:\lifehandbook2\lifehandbook2\obj\Debug\lifehandbook2.csproj.GenerateResource.Cache

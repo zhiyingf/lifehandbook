@@ -1,0 +1,11 @@
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.CWecker.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.CCalen.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.CEdit.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.Properties.Resources.resources
+C:\Users\志文\documents\visual studio 2015\Projects\lifehandbook2\ClassLibrary1\obj\Debug\ClassLibrary1.FormHelp.resources
