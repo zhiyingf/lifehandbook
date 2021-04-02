@@ -1,2 +1,2 @@
-# -C-
-可视化的期末课设(语言C#)，一个小软件——生活APP，实现了类似手机APP的闹钟，日历还有生日管家，画板。连接的数据库是ACCESS。
+# lifehandbook
+Visualized final course design (language C#), a small software -- life APP, which realizes alarm clock, calendar, birthday housekeeper and drawing board similar to mobile APP.
